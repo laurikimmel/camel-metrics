@@ -2,7 +2,14 @@
 
 [![Build Status](https://travis-ci.org/laurikimmel/camel-metrics.svg?branch=master)](https://travis-ci.org/laurikimmel/camel-metrics)
 
-**Available as of Camel 2.13**
+## This repo is inactive since 03.07.2014
+
+Merged source code to https://github.com/laurikimmel/camel/tree/camel-metrics.
+Created pull request apache/camel#210.
+Issue in Apache Jira https://issues.apache.org/jira/browse/CAMEL-7554.
+
+
+**Available as of Camel 2.14**
 
 The **metrics:** component allows you to collect various metrics directly from Camel routes. Supported metric types are _counter_, _meter_, _histogram_ and _timer_. [Metrics](http://metrics.codahale.com) provides simple way to measure behaviour of your application. Configurable reporting _backend_ is enabling different integration options for collecting and visualizing statistics. 
 
