@@ -4,10 +4,11 @@
 
 ## This repo is inactive since 03.07.2014
 
-Merged source code to https://github.com/laurikimmel/camel/tree/camel-metrics.
-Created pull request apache/camel#210.
-Issue in Apache Jira https://issues.apache.org/jira/browse/CAMEL-7554.
+* Merged source code to https://github.com/laurikimmel/camel/tree/camel-metrics.
+* Created pull request https://github.com/apache/camel/pull/210.
+* Issue in Apache Jira https://issues.apache.org/jira/browse/CAMEL-7554.
 
+## Documentation
 
 **Available as of Camel 2.14**
 
